@@ -1,4 +1,4 @@
-# Para quem vai o Oscar???
+# Para quem vai o Oscar?
 Este repositório disponibiliza um banco de dados relacionado aos indicados ao Oscar, com o propósito de exercitar consultas no MySQL Workbench.
 
 ## Exercícios
