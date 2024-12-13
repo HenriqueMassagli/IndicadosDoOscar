@@ -139,11 +139,3 @@ SELECT nome_do_indicado, ano_cerimonia FROM indicados_ao_oscar WHERE nome_do_ind
 ```
 ---
 
-## Como Executar
-1. Clone este repositório.
-2. Importe o arquivo SQL no MySQL Workbench.
-
-## Tecnologias Utilizadas
-- MySQL Workbench
-- SQL
----
